@@ -36,7 +36,7 @@ I'm [Ibrahim](https://www.linkedin.com/in/ibrahim-f-kayan/), a passionate full s
 
 I've worked in the engineering for a long time, such as auditing, consulting and forensic expertise. Due to my interest in informatics, software and cyber security, I've completed many trainings and certificates and want to advance my career in this field. I am outgoing and detail-oriented, proficient at building and maintaining professional relationships. I believe that interdisciplinary work makes important contributions to the personal development process.
 
-- 🌱 I’m currently learning JavaScript & React.js & Redux.js & Node.js & Python & SQL
+- 🌱 I’m currently learning JavaScript & React.js & Redux.js & Node.js & Python & SQL @ [Workintech Akademi](https://github.com/Workintech)
 - 👯 I’m looking to collaborate with other developers and cybersecurity researchers.
 - 💼 You can reach me via [email](mailto:ibrahimfevzi@gmail.com) :)
 - 💬 ask me about anything, i am happy to help 🤓
