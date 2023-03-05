@@ -41,7 +41,7 @@ I've worked in the engineering for a long time, such as auditing, consulting and
 - 💼 You can reach me via [email](mailto:ibrahimfevzi@gmail.com) :)
 - 💬 ask me about anything, i am happy to help 🤓
 - 👨🏻‍🎓 My educational background is as follows:
-- 2023 (still going on) - Cybersecurity - M.Sc. - Ahmet Yesevi University
+- 2023 (still ongoing) - Cybersecurity - M.Sc. - Ahmet Yesevi University
 - 2023 - Computer Programming - Associate Degree - Anadolu University
 - 2020 - Occupational Health and Safety - M.Sc. - Kocaeli University (Thesis topic: Selection and Ranking with Multi-Criteria Decision Making Methods
 - 2016 - Law  - LL.B. Bachelor of Laws - Marmara University
