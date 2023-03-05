@@ -45,7 +45,7 @@ I've worked in the engineering for a long time, such as auditing, consulting and
 - 2023 - Computer Programming - Associate Degree - Anadolu University
 - 2020 - Occupational Health and Safety - M.Sc. - Kocaeli University (Thesis topic: Selection and Ranking with Multi-Criteria Decision Making Methods
 - 2016 - Law  - LL.B. Bachelor of Laws - Marmara University
-- 2009 - Mechanical Engineering - BAchelor of Engineering - Suleyman Demirel University
+- 2009 - Mechanical Engineering - Bachelor of Engineering - Suleyman Demirel University
 
 
 **Languages and Tools:**  
