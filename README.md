@@ -39,6 +39,7 @@ I've worked in the engineering for a long time, such as auditing, consulting and
 - 🌱 I’m currently learning JavaScript & React.js & Redux.js & Node.js & Python & SQL @ [Workintech Akademi](https://github.com/Workintech)
 - 👯 I’m looking to collaborate with other developers and cybersecurity researchers.
 - 💼 You can reach me via [email](mailto:ibrahimfevzi@gmail.com) :)
+- 👨🏻‍💻 Check my cybersecurity & network [badges](https://www.credly.com/users/ibrahim-fevzi-kayan/badges)
 - 💬 ask me about anything, i am happy to help 🤓
 - 👨🏻‍🎓 My educational background is as follows:
 - 2023 (still ongoing) - Cybersecurity - M.Sc. - Ahmet Yesevi University
