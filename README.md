@@ -40,7 +40,7 @@ I've worked in the engineering for a long time, such as auditing, consulting and
 - 👯 I’m looking to collaborate with other developers and cybersecurity researchers.
 - 💼 You can reach me via [email](mailto:ibrahimfevzi@gmail.com) :)
 - 👨🏻‍💻 Check my cybersecurity & network [badges](https://www.credly.com/users/ibrahim-fevzi-kayan/badges)
-- 💬 ask me about anything, i am happy to help 🤓
+- 💬 ask me about anything, I am happy to help 🤓
 - 👨🏻‍🎓 My educational background is as follows:
 - 2023 (still ongoing) - Cybersecurity - M.Sc. - Ahmet Yesevi University
 - 2023 - Computer Programming - Associate Degree - Anadolu University
