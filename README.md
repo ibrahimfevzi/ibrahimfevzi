@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://komarev.com/ghpvc/?username=ibrahimfevzi&label=Profile+Views)
+<br />
 
 <a href="https://www.instagram.com/ibrahimfevzi/">
   <img align="left" alt="Ibrahim's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -25,7 +27,6 @@ Here are some ideas to get you started:
   <img align="left" alt="Ibrahim's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=ibrahimfevzi&label=Profile+Views)
 
 <br />
 
