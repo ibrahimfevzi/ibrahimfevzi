@@ -49,7 +49,7 @@ I've worked in the engineering for a long time, such as auditing, consulting and
 - 2009 - Mechanical Engineering - Bachelor of Engineering - Suleyman Demirel University
 
 
-**Languages and Tools:**  
+** 👨🏻‍💻 Languages and Tools:**  
 
 <p>
     <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
@@ -59,11 +59,16 @@ I've worked in the engineering for a long time, such as auditing, consulting and
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-8b4513?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="css" src="https://img.shields.io/badge/-CSS-264de4?style=flat-square&logo=css&logoColor=white" />
       <img alt="tailwind" src="https://img.shields.io/badge/-tailwind-d3d3d3?style=flat-square&logo=tailwindcss&logoColor=1DA1F2" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+    <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-66bb6a?style=flat-square&logo=cypress&logoColor=white" />
+      <img alt="SQL" src="https://img.shields.io/badge/-SQL-007acc?style=flat-square&logo=mysql&logoColor=white" />
+
+
+
 
 </p>
 
