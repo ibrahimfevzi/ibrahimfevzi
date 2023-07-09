@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 <a href="https://www.threads.net/@ibrahimfevzi">
   <img align="left" alt="" width="22px"  src="https://github.com/ibrahimfevzi/ibrahimfevzi/blob/main/instagram-threads.svg" />
 </a>
-
+<a href="https://www.medium.com/@ibrahimfevzi">
+  <img align="left" alt="" width="22px"  src="https://github.com/ibrahimfevzi/ibrahimfevzi/blob/main/icons8-medium.svg" />
+</a>
 
 
 
