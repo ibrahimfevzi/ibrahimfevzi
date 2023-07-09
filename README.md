@@ -17,15 +17,22 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=ibrahimfevzi&label=Profile+Views)
 <br />
 
-<a href="https://www.instagram.com/ibrahimfevzi/">
-  <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://www.linkedin.com/in/ibrahim-f-kayan/">
+  <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 <a href="https://twitter.com/ibrahimfevzi">
-  <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg](https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
+  <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ibrahim-f-kayan/">
-  <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.instagram.com/ibrahimfevzi/">
+  <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
 </a>
+<a href="https://www.threads.net/@ibrahimfevzi">
+  <img align="left" alt="" width="22px"  src="https://github.com/ibrahimfevzi/ibrahimfevzi/blob/main/instagram-threads.svg" />
+</a>
+
+
+
+
 
 
 <br />
