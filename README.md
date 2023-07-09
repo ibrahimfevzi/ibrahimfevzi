@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/ibrahimfevzi">
-  <img align="left" alt="" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg](https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg)" />
+  <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg](https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ibrahim-f-kayan/">
   <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
