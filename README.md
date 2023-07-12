@@ -63,20 +63,23 @@ I've worked in the engineering for a long time, such as auditing, consulting and
 ** 👨🏻‍💻 Languages and Tools:**  
 
 <p>
-    <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-      <img alt="Python" src="https://img.shields.io/badge/-Python-d3d3d3?style=flat-square&logo=python&logoColor=1da1f2" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Nextjs" src="https://img.shields.io/badge/-Nextjs-F05032?style=flat-square&logo=Next.js&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-d3d3d3?style=flat-square&logo=python&logoColor=1da1f2" />
+  <img alt="Java" src="https://img.shields.io/badge/-JAVA-007acc?style=flat-square&logo=JAVA&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-8b4513?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img alt="css" src="https://img.shields.io/badge/-CSS-264de4?style=flat-square&logo=css&logoColor=white" />
-      <img alt="tailwind" src="https://img.shields.io/badge/-tailwind-d3d3d3?style=flat-square&logo=tailwindcss&logoColor=1DA1F2" />
+  <img alt="css" src="https://img.shields.io/badge/-CSS-264de4?style=flat-square&logo=css&logoColor=white" />
+  <img alt="tailwind" src="https://img.shields.io/badge/-tailwind-d3d3d3?style=flat-square&logo=tailwindcss&logoColor=1DA1F2" />
+  <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-764ABC?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-    <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-66bb6a?style=flat-square&logo=cypress&logoColor=white" />
-      <img alt="SQL" src="https://img.shields.io/badge/-SQL-007acc?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-66bb6a?style=flat-square&logo=cypress&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-007acc?style=flat-square&logo=mysql&logoColor=white" />
 
 
 
