@@ -42,17 +42,17 @@ Here are some ideas to get you started:
   <img align="right" alt="GIF" src="https://github.com/ibrahimfevzi/ibrahimfevzi/blob/main/code.gif" width="500" height="320" />
 
 
-I'm [Ibrahim](https://www.linkedin.com/in/ibrahim-f-kayan/), a passionate full stack web developer and cyber security enthusiast from Turkiye. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+I'm [Ibrahim](https://www.linkedin.com/in/ibrahim-f-kayan/), a passionate full-stack web developer and cybersecurity enthusiast from Turkey. My software passion lies in envisioning ideas and bringing them to life through elegant interfaces. I place great importance on the user experience, architectural design, and code quality of the projects I build.
 
-I've worked in the engineering for a long time, such as auditing, consulting and forensic expertise. Due to my interest in informatics, software and cyber security, I've completed many trainings and certificates and want to advance my career in this field. I am outgoing and detail-oriented, proficient at building and maintaining professional relationships. I believe that interdisciplinary work makes important contributions to the personal development process.
+With extensive experience in engineering, including auditing, consulting, and forensic expertise, I have developed a strong interest in informatics, software development, and cybersecurity. I have completed numerous training programs and earned certifications, and I am eager to advance my career in this field. I am an outgoing and detail-oriented individual, skilled in building and maintaining professional relationships. I strongly believe that interdisciplinary work contributes significantly to personal growth and development.
 
-- 🌱 I’m currently learning everything :)
-- 👯 I’m looking to collaborate with other developers 
+- 🌱 Currently, I am eagerly learning everything I can.
+- 👯  I am open to collaborating with other developers.
 - 💼 You can reach me via [email](mailto:ibrahimfevzi@gmail.com) :)
-- 👨🏻‍💻 Check my [personal portfolio](https://ibrahimkayan.vercel.app/)
-- 👨🏻‍💻 Check my cybersecurity & network [badges](https://www.credly.com/users/ibrahim-fevzi-kayan/badges)
-- 💬 ask me about anything, I am happy to help 🤓
-- 👨🏻‍🎓 My educational background is as follows:
+- 👨🏻‍💻 Check out my [personal portfolio](https://ibrahimkayan.vercel.app/)
+- 👨🏻‍💻 Explore my cybersecurity and network [badges](https://www.credly.com/users/ibrahim-fevzi-kayan/badges)
+- 💬 Feel free to ask me anything; I am here to help. 🤓
+- 👨🏻‍🎓 Here is my educational background:
 - 2023 (still ongoing) - Cybersecurity - M.Sc. - Ahmet Yesevi University
 - 2023 - Computer Programming - Associate Degree - Anadolu University
 - 2020 - Occupational Health and Safety - M.Sc. - Kocaeli University (Thesis topic: Selection and Ranking with Multi-Criteria Decision Making Methods
