@@ -49,7 +49,6 @@ With extensive experience in engineering, including auditing, consulting, and fo
 - 🌱 Currently, I am eagerly learning everything I can.
 - 👯  I am open to collaborating with other developers.
 - 💼 You can reach me via [email](mailto:ibrahimfevzi@gmail.com) :)
-- 👨🏻‍💻 Check out my [personal portfolio](https://ibrahimkayan.vercel.app/)
 - 👨🏻‍💻 Explore my cybersecurity and network [badges](https://www.credly.com/users/ibrahim-fevzi-kayan/badges)
 - 💬 Feel free to ask me anything; I am here to help. 🤓
 - 👨🏻‍🎓 Here is my educational background:
