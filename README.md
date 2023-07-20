@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <img align="right" alt="GIF" src="https://github.com/ibrahimfevzi/ibrahimfevzi/blob/main/code.gif" width="500" height="320" />
 
 
-I'm [Ibrahim](https://www.linkedin.com/in/ibrahim-f-kayan/), a passionate full-stack web developer and cybersecurity enthusiast from Turkey. My software passion lies in envisioning ideas and bringing them to life through elegant interfaces. I place great importance on the user experience, architectural design, and code quality of the projects I build.
+I'm [Ibrahim](https://www.linkedin.com/in/ibrahim-f-kayan/), a passionate full-stack software developer and cybersecurity enthusiast from Turkey. My software passion lies in envisioning ideas and bringing them to life through elegant interfaces. I place great importance on the user experience, architectural design, and code quality of the projects I build.
 
 With extensive experience in engineering, including auditing, consulting, and forensic expertise, I have developed a strong interest in informatics, software development, and cybersecurity. I have completed numerous training programs and earned certifications, and I am eager to advance my career in this field. I am an outgoing and detail-oriented individual, skilled in building and maintaining professional relationships. I strongly believe that interdisciplinary work contributes significantly to personal growth and development.
 
