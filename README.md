@@ -51,13 +51,6 @@ With extensive experience in engineering, including auditing, consulting, and fo
 - 💼 You can reach me via [email](mailto:ibrahimfevzi@gmail.com) :)
 - 👨🏻‍💻 Explore my cybersecurity and network [badges](https://www.credly.com/users/ibrahim-fevzi-kayan/badges)
 - 💬 Feel free to ask me anything; I am here to help. 🤓
-- 👨🏻‍🎓 Here is my educational background:
-- 2023 (still ongoing) - Cybersecurity - M.Sc. - Ahmet Yesevi University
-- 2023 - Computer Programming - Associate Degree - Anadolu University
-- 2020 - Occupational Health and Safety - M.Sc. - Kocaeli University (Thesis topic: Selection and Ranking with Multi-Criteria Decision Making Methods
-- 2016 - Law  - LL.B. Bachelor of Laws - Marmara University
-- 2009 - Mechanical Engineering - Bachelor of Engineering - Suleyman Demirel University
-
 
 ** 👨🏻‍💻 Languages and Tools:**  
 
