@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/ibrahimfevzi">
   <img align="left" alt="" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
 </a>
-<a href="https://www.medium.com/@ibrahimfevzi">
+<a href="https://www.hackerrank.com/ibrahimfevzi">
   <img align="left" alt="" width="36px"  src="https://github.com/ibrahimfevzi/ibrahimfevzi/blob/main/hackerrank2.svg" />
 </a>
 <a href="https://www.threads.net/@ibrahimfevzi">
