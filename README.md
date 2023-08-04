@@ -19,21 +19,22 @@ Here are some ideas to get you started:
 <br />
 
 <a href="https://www.linkedin.com/in/ibrahim-f-kayan/">
-  <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
+  <img align="left" alt="" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 <a href="https://twitter.com/ibrahimfevzi">
-  <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
+  <img align="left" alt="" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
+</a>
+<a href="https://www.medium.com/@ibrahimfevzi">
+  <img align="left" alt="" width="36px"  src="https://github.com/ibrahimfevzi/ibrahimfevzi/blob/main/hackerrank2.svg" />
 </a>
 <a href="https://www.threads.net/@ibrahimfevzi">
-  <img align="left" alt="" width="22px"  src="https://github.com/ibrahimfevzi/ibrahimfevzi/blob/main/instagram-threads.svg" />
+  <img align="left" alt="" width="36px"  src="https://github.com/ibrahimfevzi/ibrahimfevzi/blob/main/instagram-threads.svg" />
 </a>
 <a href="https://www.medium.com/@ibrahimfevzi">
-  <img align="left" alt="" width="22px"  src="https://github.com/ibrahimfevzi/ibrahimfevzi/blob/main/icons8-medium.svg" />
-</a>
-<a href="https://www.medium.com/@ibrahimfevzi">
-  <img align="left" alt="" width="22px"  src="https://github.com/ibrahimfevzi/ibrahimfevzi/blob/main/hackerrank.svg" />
+  <img align="left" alt="" width="36px"  src="https://github.com/ibrahimfevzi/ibrahimfevzi/blob/main/icons8-medium.svg" />
 </a>
 
+<br />
 
 
 
