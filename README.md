@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/ibrahimfevzi/ibrahimfevzi/assets/84006626/1915b9bc-88ae-4c9f-ae70-20f65904abf7" width="40" height="40">
+
 
 <!--
 **ibrahimfevzi/ibrahimfevzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,16 +24,15 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/ibrahimfevzi">
   <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
 </a>
-<a href="https://www.instagram.com/ibrahimfevzi/">
-  <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
-</a>
 <a href="https://www.threads.net/@ibrahimfevzi">
   <img align="left" alt="" width="22px"  src="https://github.com/ibrahimfevzi/ibrahimfevzi/blob/main/instagram-threads.svg" />
 </a>
 <a href="https://www.medium.com/@ibrahimfevzi">
   <img align="left" alt="" width="22px"  src="https://github.com/ibrahimfevzi/ibrahimfevzi/blob/main/icons8-medium.svg" />
 </a>
-
+<a href="https://www.medium.com/@ibrahimfevzi">
+  <img align="left" alt="" width="22px"  src="https://github.com/ibrahimfevzi/ibrahimfevzi/blob/main/hackerrank.svg" />
+</a>
 
 
 
